@@ -8,7 +8,7 @@ This project is designed to capture and detect faces in user-provided videos usi
 
 We've trained our own YOLOv5 model to excel at face detection tasks. You can download our trained model from the following Google Drive link:
 
-[Download the Trained Model](link_to_model)
+[Download the Trained Model](https://drive.google.com/file/d/1iWLhD0M4irTWUHrJcSqkOIJzeQXxQQ0w/view?usp=sharing)
 
 ## Prerequisites
 
